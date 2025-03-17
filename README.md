@@ -1,59 +1,48 @@
-# 🚀 Hi, I'm [Your Name] 👋
+<h1 align="center">✨ Welcome to My GitHub Universe ✨</h1>
 
-🌌 ​**Welcome to my GitHub Universe!** 🌌
-
-I'm a passionate developer who loves to explore the vast cosmos of technology. My mission is to build innovative solutions that make the world a better place. 🌍✨
-
-## 🔭 ​**What I'm Currently Working On**
-
-- 🛠️ Building a [Project Name] to [Project Purpose].
-- 🌱 Learning [New Technology/Skill] to expand my horizons.
-- 🤝 Collaborating on [Open Source Project] to contribute to the community.
-
-## 🛠️ ​**Technologies & Tools**
-
-### 🖥️ ​**Languages**
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-
-### 🛠️ ​**Frameworks & Libraries**
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
-
-### 🛠️ ​**Tools & Platforms**
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-
-## 🌟 ​**Featured Projects**
-
-### 🚀 [Project Name 1](https://github.com/yourusername/project1)
-A brief description of what this project does and why it's cool.
-
-### 🚀 [Project Name 2](https://github.com/yourusername/project2)
-Another brief description of what this project does and why it's cool.
-
-## 📊 ​**GitHub Stats**
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
-
-## 📫 ​**How to Reach Me**
-
-- 📧 Email: [your.email@example.com](mailto:your.email@example.com)
-- 🐦 Twitter: [@YourTwitterHandle](https://twitter.com/YourTwitterHandle)
-- 💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile/)
-
-## 🌠 ​**Fun Fact**
-
-Did you know? I once coded a program that [Fun Fact About You]!
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Hi+there+👋;I'm+[Your+Name];A+passionate+developer+🚀;Building+the+future+one+commit+at+a+time+💻" alt="Typing Animation" />
+</p>
 
 ---
 
-⭐️ ​**Thanks for visiting my GitHub profile!** ⭐️
+### 🛠️ ​**Tech Stack**
 
-Feel free to explore my repositories and don't forget to ⭐️ your favorite projects!
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,js,react,nodejs,django,git,docker,aws&theme=dark" alt="Tech Stack" />
+</p>
+
+---
+
+### 🌟 ​**Featured Projects**
+
+- ​**[Project Name 1](https://github.com/yourusername/project1)**  
+  A short description of what it does and why it's cool.
+
+- ​**[Project Name 2](https://github.com/yourusername/project2)**  
+  Another short description of what it does and why it's cool.
+
+---
+
+### 📊 ​**GitHub Stats**
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+### 📫 ​**Let's Connect!**
+
+<p align="center">
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://twitter.com/YourTwitterHandle"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter" /></a>
+  <a href="https://www.linkedin.com/in/yourprofile/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile+Views&color=00FF00&style=flat" alt="Profile Views" />
+</p>
