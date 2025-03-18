@@ -15,7 +15,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ljh6137&layout=compact&theme=default" alt="Language Stats" style="width: 500px; height: 200px;" /> -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ljh6137&theme=github-light&hide_border=true&area=true" alt="Contributions" style="width: 500px; height: 200px;" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ljh6137&theme=github-light&hide_border=true&area=true" alt="Contributions" style="width: 750px; height: 200px;" />
 <!-- </div> -->
 
 <div align="center">
