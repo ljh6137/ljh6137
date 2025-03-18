@@ -9,7 +9,7 @@
 ---
 
 ## 🛠️ Language Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark)
+![Language Stats](language_stats.png)
 
 ---
 
