@@ -8,13 +8,18 @@
 
 ---
 
-## 🛠️ Language Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ljh6137&layout=compact&theme=dark)
-
----
-
-## 🌟 Contributions
-![GitHub Contributions](https://github-readme-activity-graph.vercel.app/graph?username=ljh6137&theme=github-dark&hide_border=true&area=true)
+<table>
+  <tr>
+    <td>
+      ## 🛠️ Language Stats
+      ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ljh6137&layout=compact&theme=dark)
+    </td>
+    <td>
+      ## 🌟 Contributions
+      ![GitHub Contributions](https://github-readme-activity-graph.vercel.app/graph?username=ljh6137&theme=github-dark&hide_border=true&area=true)
+    </td>
+  </tr>
+</table>
 
 ---
 
