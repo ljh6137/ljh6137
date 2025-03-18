@@ -9,8 +9,8 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ljh6137&layout=compact&theme=dark" alt="Language Stats" style="width: 400px; height: 200px;" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ljh6137&theme=github-dark&hide_border=true&area=true" alt="Contributions" style="width: 400px; height: 200px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ljh6137&layout=compact&theme=default" alt="Language Stats" style="width: 400px; height: 200px;" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ljh6137&theme=default&hide_border=true&area=true" alt="Contributions" style="width: 400px; height: px;" />
 </p>
 
 <p align="center">
