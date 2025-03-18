@@ -8,10 +8,15 @@
 
 ---
 
+  ![Jiehong Lin's GitHub stats](https://github-readme-stats.vercel.app/api?username=ljh6137&theme=light&show_icons=true)
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ljh6137&layout=compact&theme=default" alt="Language Stats" style="width: 400px; height: 200px;" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ljh6137&theme=default&hide_border=true&area=true" alt="Contributions" style="width: 400px; height: px;" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ljh6137&theme=github-light&hide_border=true&area=true" alt="Contributions" style="width: 500px; height: px;" />
 </p>
+
+
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/Languages-Python%20%7C%20JavaScript%20%7C%20Java-blue" alt="Languages" />
