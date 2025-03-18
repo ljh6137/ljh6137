@@ -9,20 +9,7 @@
 ---
 
 ## 🛠️ Language Stats
-- ​**Jupyter Notebook**: 16.65%
-- ​**Python**: 1.63%
-- ​**JavaScript**: 0.58%
-- ​**TypeScript**: 0.29%
-- ​**Shell**: 1.36%
-- ​**PowerShell**: 0.05%
-- ​**Batchfile**: 0.10%
-- ​**HTML**: 1.82%
-- ​**SCSS**: 0.98%
-- ​**Ruby**: 0.04%
-- ​**C++**: 69.18%
-- ​**Cuda**: 4.33%
-- ​**CMake**: 2.92%
-- ​**HCL**: 0.07%
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark)
 
 ---
 
