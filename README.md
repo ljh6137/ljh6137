@@ -9,7 +9,7 @@
 ---
 
 ## 🛠️ Language Stats
-<!-- LANGUAGE_STATS -->
+![Language Stats](language_stats.png)
 
 ---
 
