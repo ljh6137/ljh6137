@@ -8,20 +8,10 @@
 
 ---
 
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        ## 🛠️ Language Stats
-        ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ljh6137&layout=compact&theme=dark)
-      </td>
-      <td width="50%">
-        ## 🌟 Contributions
-        ![GitHub Contributions](https://github-readme-activity-graph.vercel.app/graph?username=ljh6137&theme=github-dark&hide_border=true&area=true)
-      </td>
-    </tr>
-  </table>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ljh6137&layout=compact&theme=dark" alt="Language Stats" width="400" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ljh6137&theme=github-dark&hide_border=true&area=true" alt="Contributions" width="400" />
+</p>
 
 ---
 
